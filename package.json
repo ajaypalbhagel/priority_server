@@ -7,11 +7,11 @@
     "test": "./node_modules/mocha/bin/mocha",
     "start": "node server.js"
   },
-  "author": "Rahul Ranjan",
+  "author": "ajay",
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/workrahul22/cops.git"
+    "url": "git+https://github.com/ajaypalbhagel/priority_server.git"
   },
   "dependencies": {
     "axios": "^0.20.0"
@@ -19,12 +19,5 @@
   "devDependencies": {
     "chai": "^4.2.0",
     "mocha": "^8.2.0"
-  },
-  "bugs": {
-    "url": "https://github.com/workrahul22/cops/issues"
-  },
-  "homepage": "https://github.com/workrahul22/cops#readme",
-  "directories": {
-    "test": "test"
   }
 }
